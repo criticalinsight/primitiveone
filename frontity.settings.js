@@ -2,7 +2,7 @@ const settings = {
   name: "primitiveone",
   state: {
   frontity: {
-      url: "https://primitivedigital.uk",
+      url: "https://zuphi.design",
       title: "Primitive Digital",
       description: "WordPress Web Sites & Apps",
       name: "Want a Website?"
@@ -45,7 +45,7 @@ const settings = {
       name: "@frontity/google-analytics",
       state: {
         "googleAnalytics": {
-          "trackingIds": ['UA-61815763-1']
+          "trackingIds": ['']
         },
       },
     },
